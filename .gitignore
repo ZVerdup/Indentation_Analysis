@@ -1,0 +1,20 @@
+﻿# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+
+# Virtual env
+.venv/
+
+# VS Code (optional to ignore everything)
+.vscode/*
+
+# Data (keep large/raw outputs out of git)
+data_raw/
+data_out/
+
+# OS junk
+.DS_Store
+Thumbs.db
